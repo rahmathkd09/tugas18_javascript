@@ -1,0 +1,2 @@
+var kalimat18="it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout"
+console.log(kalimat18.substr(8,16))
